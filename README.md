@@ -55,6 +55,11 @@ The project uses the Credit Card Fraud Detection dataset from Kaggle, which cont
 - Implemented **SMOTE** to oversample the minority class, enhancing the model's ability to detect fraud.
 - Adjusted class weights to give more importance to the minority class during training.
 
+## Integration with Streamlit
+
+- This Credit Card Fraud Detection System was deployed using Streamlit to provide a user-friendly, interactive web application interface. With this integration, users can:
+- Integrated the Credit Card Fraud Detection System with Streamlit to provide a user-friendly, web-based interface, enabling users to input transaction data and view real-time predictions on the likelihood of fraud.
+
 ## Achievements
 
 - **Model Performance**:  
